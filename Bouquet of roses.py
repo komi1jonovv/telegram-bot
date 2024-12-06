@@ -1,10 +1,10 @@
 from aiogram import Bot, Dispatcher, executor, types
 
 
-BOT_TOKEN = "7933453658:AAHkGQDm9XawsL7IHdUTdgBFO1eddON0MSM"
+BOT_TOKEN = "your_token"
 
 
-ADMIN_ID = 5321852973
+ADMIN_ID = your ID 
 
 
 keywords = ["buyurtma", "ilhom", "xarid", "yordam", "/start", "/help"]
